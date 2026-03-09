@@ -1,0 +1,421 @@
+Order_ID,Category,City,Customer_Age,Price,Quantity,Delivery_Time_mins,Payment_Method,Rating,Order_Status
+ZPT2000,Personal Care,Pune,19.0,,8.0,26.0,Debit Card,3.0,Delivered
+ZPT2001,Dairy & Eggs,Mumbai,53.0,2126.57,8.0,17.0,UPI,2.0,Returned
+ZPT2002,Bakery,Ahmedabad,58.0,45.26,8.0,23.0,Wallet,5.0,
+ZPT2003,Snacks,Mumbai,27.0,1771.35,7.0,23.0,Wallet,4.0,Pending
+ZPT2004,Beverages,Pune,58.0,2457.07,10.0,25.0,UPI,1.0,Cancelled
+ZPT2005,Dairy & Eggs,Chennai,36.0,418.03,5.0,300.0,Credit Card,1.0,
+ZPT2006,Bakery,Chennai,22.0,,11.0,15.0,Debit Card,,Cancelled
+ZPT2007,Personal Care,Pune,23.0,480.05,12.0,40.0,,4.0,Cancelled
+ZPT2008,Snacks,Pune,19.0,2075.74,6.0,37.0,Credit Card,,Pending
+ZPT2009,Cleaning,Kolkata,41.0,1297.64,1.0,38.0,Credit Card,2.0,Returned
+ZPT2010,fruits & vegetables,Chennai,53.0,2057.98,3.0,10.0,UPI,3.0,
+ZPT2011,Dairy & Eggs,,19.0,449.21,12.0,15.0,Wallet,1.0,Returned
+ZPT2012,Cleaning,Hyderabad,47.0,1041.94,1.0,29.0,Credit Card,1.0,Pending
+ZPT2013,Meat & Fish,Bangalore,56.0,989.05,10.0,22.0,,4.0,
+ZPT2014,Meat & Fish,,61.0,1120.32,10.0,37.0,,2.0,
+ZPT2015,Bakery,Kolkata,41.0,530.91,,28.0,Cash,1.0,Cancelled
+ZPT2016,Dairy & Eggs,,20.0,,7.0,25.0,,5.0,Pending
+ZPT2017,Dairy & Eggs,Chennai,,2459.63,5.0,15.0,Debit Card,5.0,Returned
+ZPT2018,Beverages,Kolkata,30.0,2181.4,11.0,14.0,Debit Card,1.0,Returned
+ZPT2019,Snacks,,,2390.71,11.0,49.0,Debit Card,3.0,
+ZPT2010,Bakery,,26.0,1514.54,5.0,11.0,,2.0,
+ZPT2021,Meat & Fish,Pune,38.0,1967.53,9.0,37.0,Credit Card,2.0,Cancelled
+ZPT2022,Dairy & Eggs,,,820.72,7.0,19.0,Cash,3.0,Returned
+ZPT2023,Meat & Fish,Mumbai,33.0,326.22,5.0,43.0,Wallet,5.0,Returned
+ZPT2024,Fruits & Vegetables,,45.0,971.89,14.0,15.0,,3.0,Pending
+ZPT2025,Meat & Fish,Delhi,55.0,2025.49,13.0,15.0,Debit Card,3.0,Returned
+ZPT2026,Bakery,,64.0,183.53,10.0,40.0,UPI,5.0,Returned
+ZPT2027,Meat & Fish,Delhi,54.0,1024.55,1.0,15.0,,3.0,Delivered
+ZPT2028,Personal Care,Pune,62.0,1262.81,13.0,17.0,Wallet,2.0,Pending
+ZPT2029,Fruits & Vegetables,Hyderabad,35.0,958.06,11.0,39.0,Wallet,1.0,Delivered
+ZPT2030,Beverages,Delhi,27.0,990.66,1.0,37.0,Cash,1.0,Cancelled
+ZPT2031,Snacks,,50.0,2165.57,5.0,25.0,,1.0,
+ZPT2032,Fruits & Vegetables,Bangalore,39.0,374.93,12.0,38.0,,1.0,Delivered
+ZPT2033,Bakery,Bangalore,59.0,1265.16,3.0,12.0,UPI,1.0,Returned
+ZPT2034,Snacks,Kolkata,53.0,2074.5,7.0,13.0,UPI,4.0,Delivered
+ZPT2035,Cleaning,,37.0,403.85,5.0,46.0,,4.0,Returned
+ZPT2036,Meat & Fish,Ahmedabad,40.0,1500.16,10.0,45.0,Cash,4.0,Delivered
+ZPT2037,Beverages,Delhi,44.0,1560.29,14.0,42.0,UPI,2.0,
+ZPT2038,Cleaning,Chennai,23.0,2183.11,7.0,30.0,,2.0,Pending
+ZPT2039,Meat & Fish,,30.0,900.18,2.0,14.0,UPI,1.0,
+ZPT2040,Personal Care,Pune,50.0,,9.0,27.0,,5.0,Delivered
+ZPT2041,Meat & Fish,Mumbai,45.0,555.06,13.0,15.0,Cash,,Pending
+ZPT2042,Bakery,Kolkata,19.0,2210.78,3.0,10.0,,,Delivered
+ZPT2043,Beverages,Mumbai,62.0,146.77,5.0,27.0,Debit Card,1.0,
+ZPT2044,Snacks,,29.0,2398.71,1.0,30.0,Cash,7.0,Pending
+ZPT2045,Dairy & Eggs,Ahmedabad,29.0,451.33,5.0,19.0,Debit Card,2.0,Delivered
+ZPT2046,Snacks,Kolkata,47.0,652.6,1.0,,Cash,4.0,Cancelled
+ZPT2047,Meat & Fish,,49.0,1390.93,2.0,11.0,Cash,4.0,
+ZPT2048,Fruits & Vegetables,Mumbai,59.0,2443.33,8.0,28.0,Debit Card,5.0,Cancelled
+ZPT2049,Bakery,,51.0,585.41,5.0,13.0,Credit Card,2.0,Delivered
+ZPT2050,SNACKS,Delhi,30.0,1641.1,1.0,28.0,Debit Card,2.0,Delivered
+ZPT2051,Snacks,,31.0,1918.48,5.0,49.0,UPI,,
+ZPT2052,Dairy & Eggs,,30.0,317.79,4.0,15.0,Debit Card,3.0,Pending
+ZPT2053,Meat & Fish,Bangalore,53.0,1991.45,5.0,13.0,Cash,5.0,Delivered
+ZPT2054,Dairy & Eggs,Hyderabad,42.0,1424.59,9.0,27.0,,4.0,Returned
+ZPT2045,Meat & Fish,Hyderabad,58.0,634.86,12.0,39.0,Wallet,1.0,Pending
+ZPT2056,Dairy & Eggs,Pune,,805.86,12.0,36.0,Wallet,5.0,
+ZPT2057,Meat & Fish,Hyderabad,58.0,598.67,12.0,12.0,UPI,3.0,
+ZPT2058,Cleaning,,29.0,1770.73,8.0,33.0,Cash,3.0,Cancelled
+ZPT2059,Fruits & Vegetables,Kolkata,18.0,266.87,14.0,,,3.0,Cancelled
+ZPT2060,Personal Care,,41.0,563.67,10.0,26.0,,3.0,Pending
+ZPT2061,Cleaning,,29.0,,4.0,31.0,,3.0,Pending
+ZPT2062,Beverages,,53.0,1154.5,5.0,39.0,Debit Card,3.0,Pending
+ZPT2063,Fruits & Vegetables,,56.0,1149.54,1.0,45.0,Credit Card,3.0,Pending
+ZPT2064,Dairy & Eggs,,20.0,1934.0,9.0,43.0,Credit Card,2.0,
+ZPT2065,Personal Care,Kolkata,60.0,1106.91,2.0,33.0,Wallet,2.0,Cancelled
+ZPT2066,Personal Care,Bangalore,37.0,1785.96,8.0,41.0,Cash,5.0,Returned
+ZPT2067,Personal Care,Mumbai,36.0,1752.85,7.0,43.0,UPI,5.0,Pending
+ZPT2068,Cleaning,Mumbai,58.0,812.71,14.0,19.0,Wallet,1.0,Delivered
+ZPT2069,Fruits & Vegetables,,45.0,1031.49,2.0,,UPI,,
+ZPT2070,Cleaning,Ahmedabad,53.0,88.07,5.0,35.0,Cash,5.0,
+ZPT2071,Meat & Fish,Bangalore,63.0,513.14,4.0,16.0,,2.0,Returned
+ZPT2072,Fruits & Vegetables,Kolkata,47.0,1418.02,9.0,46.0,Wallet,3.0,
+ZPT2073,Meat & Fish,Kolkata,39.0,1964.09,8.0,20.0,Debit Card,5.0,Delivered
+ZPT2074,Dairy & Eggs,Mumbai,59.0,1081.9,5.0,34.0,Credit Card,5.0,Pending
+ZPT2075,Bakery,,62.0,623.92,10.0,15.0,,1.0,
+ZPT2076,Cleaning,Pune,54.0,2102.38,9.0,37.0,UPI,4.0,Returned
+ZPT2077,Meat & Fish,Chennai,51.0,1208.55,5.0,9.0,UPI,5.0,
+ZPT2078,Beverages,Ahmedabad,63.0,1226.06,1.0,47.0,Credit Card,2.0,
+ZPT2079,Meat & Fish,,47.0,2363.31,14.0,24.0,Credit Card,2.0,Returned
+ZPT2080,Beverages,Pune,49.0,857.06,10.0,9.0,Cash,,Pending
+ZPT2081,Meat & Fish,,29.0,2320.77,9.0,39.0,Debit Card,5.0,Pending
+ZPT2082,Beverages,Mumbai,48.0,443.57,7.0,24.0,UPI,4.0,
+ZPT2083,Meat & Fish,Bangalore,29.0,46.52,3.0,19.0,Debit Card,5.0,
+ZPT2084,Dairy & Eggs,Kolkata,62.0,2211.79,1.0,48.0,,1.0,Cancelled
+ZPT2085,Cleaning,Pune,54.0,2430.41,4.0,38.0,UPI,1.0,Pending
+ZPT2086,Cleaning,Bangalore,59.0,2249.95,9.0,37.0,Credit Card,1.0,Delivered
+ZPT2087,Personal Care,Ahmedabad,41.0,644.26,10.0,23.0,Cash,2.0,Returned
+ZPT2088,Fruits & Vegetables,Delhi,48.0,855.21,1.0,-10.0,Credit Card,1.0,Pending
+ZPT2089,Meat & Fish,Bangalore,45.0,1784.72,1.0,48.0,UPI,,Delivered
+ZPT2090, Dairy & Eggs ,Mumbai,55.0,2085.77,7.0,11.0,Wallet,5.0,
+ZPT2091,Dairy & Eggs,Kolkata,41.0,195.41,10.0,9.0,UPI,1.0,Returned
+ZPT2092,Personal Care,Delhi,60.0,1218.97,2.0,18.0,Cash,4.0,Returned
+ZPT2093,Cleaning,Mumbai,45.0,2428.58,14.0,14.0,Debit Card,2.0,Pending
+ZPT2094,Dairy & Eggs,Hyderabad,55.0,1965.48,8.0,31.0,Wallet,1.0,Returned
+ZPT2095,Meat & Fish,Delhi,50.0,402.95,1.0,32.0,Cash,2.0,Delivered
+ZPT2096,Personal Care,Pune,21.0,1986.22,5.0,26.0,Cash,3.0,
+ZPT2097,Beverages,,25.0,2158.13,8.0,19.0,,3.0,Returned
+ZPT2098,Personal Care,Kolkata,46.0,2250.38,2.0,26.0,Cash,5.0,Pending
+ZPT2099,Fruits & Vegetables,Chennai,63.0,356.56,1.0,33.0,Credit Card,1.0,Cancelled
+ZPT2100,Bakery,,59.0,1451.53,1.0,16.0,,3.0,Returned
+ZPT2101,Bakery,Delhi,23.0,460.99,4.0,43.0,Wallet,1.0,
+ZPT2102,Bakery,Kolkata,63.0,1433.59,8.0,30.0,UPI,2.0,Pending
+ZPT2103,Fruits & Vegetables,Hyderabad,57.0,1235.09,6.0,12.0,,5.0,Cancelled
+ZPT2104,Snacks,Bangalore,32.0,378.8,2.0,25.0,Credit Card,4.0,
+ZPT2105,Snacks,Pune,52.0,512.0,8.0,29.0,UPI,,Pending
+ZPT2106,Dairy & Eggs,Kolkata,53.0,1759.48,4.0,34.0,Debit Card,2.0,
+ZPT2107,Personal Care,Ahmedabad,50.0,36.48,7.0,48.0,,4.0,Delivered
+ZPT2108,Cleaning,,58.0,1417.81,7.0,10.0,UPI,1.0,
+ZPT2109,Cleaning,Pune,45.0,1429.96,6.0,9.0,,1.0,
+ZPT2100,Snacks,,18.0,167.39,7.0,8.0,Wallet,,
+ZPT2111,Beverages,Hyderabad,32.0,554.9,4.0,28.0,,3.0,Cancelled
+ZPT2112,Bakery,Chennai,59.0,389.83,7.0,49.0,,4.0,Pending
+ZPT2113,Snacks,Bangalore,50.0,400.67,14.0,15.0,Cash,1.0,Pending
+ZPT2114,Beverages,Mumbai,54.0,473.74,3.0,20.0,,4.0,Cancelled
+ZPT2115,Cleaning,Pune,45.0,1679.61,12.0,22.0,Cash,1.0,
+ZPT2116,Beverages,,35.0,2189.75,1.0,30.0,,3.0,Delivered
+ZPT2117,Beverages,Kolkata,31.0,1432.51,10.0,27.0,,4.0,Cancelled
+ZPT2118,Meat & Fish,Pune,43.0,332.97,6.0,9.0,UPI,4.0,Returned
+ZPT2119,Personal Care,,28.0,650.85,10.0,29.0,,4.0,
+ZPT2120,Beverages,Kolkata,49.0,1005.99,10.0,34.0,Debit Card,1.0,Pending
+ZPT2121,Bakery,Ahmedabad,44.0,1842.18,13.0,48.0,,2.0,Returned
+ZPT2122,Personal Care,Ahmedabad,40.0,132.54,1.0,28.0,UPI,1.0,Cancelled
+ZPT2123,Personal Care,Ahmedabad,28.0,2145.68,8.0,21.0,Wallet,3.0,Delivered
+ZPT2124,Bakery,,,1058.29,11.0,22.0,Credit Card,5.0,Delivered
+ZPT2125,Cleaning,Chennai,51.0,2438.61,2.0,9.0,,5.0,
+ZPT2126,Fruits & Vegetables,Kolkata,56.0,1096.7,11.0,11.0,,3.0,Cancelled
+ZPT2127,Dairy & Eggs,,,1899.77,14.0,49.0,Cash,3.0,Returned
+ZPT2128,Fruits & Vegetables,Hyderabad,,420.54,3.0,22.0,Debit Card,5.0,
+ZPT2129,Beverages,Chennai,45.0,363.11,4.0,22.0,Wallet,5.0,Cancelled
+ZPT2130,beverages,,20.0,1381.95,7.0,31.0,,2.0,
+ZPT2131,Snacks,Pune,57.0,1900.22,5.0,22.0,Debit Card,2.0,
+ZPT2132,Meat & Fish,Hyderabad,52.0,394.9,6.0,13.0,Credit Card,1.0,Cancelled
+ZPT2133,Bakery,Ahmedabad,21.0,420.71,10.0,31.0,,3.0,Delivered
+ZPT2134,Fruits & Vegetables,Kolkata,33.0,596.88,8.0,16.0,Credit Card,3.0,
+ZPT2135,Snacks,Delhi,48.0,113.64,3.0,19.0,,4.0,Returned
+ZPT2136,Dairy & Eggs,,47.0,783.43,3.0,27.0,UPI,3.0,Pending
+ZPT2137,Personal Care,Kolkata,28.0,1574.51,6.0,33.0,Cash,3.0,Cancelled
+ZPT2138,Fruits & Vegetables,Ahmedabad,52.0,2212.23,5.0,44.0,,1.0,Pending
+ZPT2139,Cleaning,,44.0,2157.99,1.0,39.0,Debit Card,1.0,Returned
+ZPT2140,Snacks,,24.0,716.47,4.0,21.0,Cash,4.0,Returned
+ZPT2141,Meat & Fish,Delhi,51.0,297.02,5.0,11.0,Credit Card,1.0,
+ZPT2142,Cleaning,Pune,29.0,2013.08,11.0,39.0,Cash,4.0,Returned
+ZPT2143,Cleaning,Hyderabad,48.0,1302.05,3.0,23.0,UPI,3.0,Delivered
+ZPT2144,Cleaning,,24.0,854.92,6.0,14.0,Credit Card,5.0,
+ZPT2145,Cleaning,Chennai,33.0,,5.0,45.0,Debit Card,3.0,Returned
+ZPT2146,Dairy & Eggs,Mumbai,49.0,263.7,11.0,47.0,UPI,2.0,Delivered
+ZPT2147,Bakery,Delhi,21.0,1694.44,7.0,35.0,Debit Card,5.0,
+ZPT2148,Personal Care,Bangalore,29.0,2377.42,12.0,19.0,Cash,4.0,Returned
+ZPT2149,Bakery,Pune,46.0,1566.27,10.0,14.0,Cash,5.0,Delivered
+ZPT2150,Cleaning,,24.0,1519.06,10.0,46.0,Cash,4.0,
+ZPT2151,Meat & Fish,Bangalore,25.0,208.71,8.0,44.0,Credit Card,5.0,
+ZPT2152,Cleaning,Chennai,38.0,1872.48,7.0,22.0,,1.0,Cancelled
+ZPT2153,Dairy & Eggs,Hyderabad,59.0,,6.0,36.0,Debit Card,2.0,Delivered
+ZPT2154,Meat & Fish,Mumbai,43.0,170.72,13.0,28.0,,3.0,Returned
+ZPT2155,Meat & Fish,,52.0,1459.39,7.0,999.0,Credit Card,2.0,Returned
+ZPT2156,Beverages,Kolkata,25.0,550.48,10.0,17.0,UPI,4.0,Cancelled
+ZPT2157,Snacks,Kolkata,39.0,305.43,3.0,33.0,,4.0,Delivered
+ZPT2158,Snacks,Hyderabad,23.0,2105.57,4.0,48.0,UPI,5.0,
+ZPT2159,Personal Care,Chennai,48.0,2355.57,3.0,48.0,Debit Card,2.0,
+ZPT2160,Cleaning,,19.0,73.3,1.0,,UPI,3.0,Returned
+ZPT2161,Personal Care,Mumbai,39.0,125.9,2.0,32.0,,1.0,Pending
+ZPT2162,Snacks,Mumbai,52.0,1738.7,10.0,38.0,Cash,,Cancelled
+ZPT2163,Meat & Fish,,57.0,774.8,6.0,25.0,,1.0,
+ZPT2164,Cleaning,Mumbai,,629.8,14.0,35.0,Wallet,1.0,
+ZPT2165,Beverages,Mumbai,24.0,2466.25,11.0,8.0,Debit Card,1.0,Pending
+ZPT2166,Cleaning,Bangalore,41.0,2485.75,10.0,42.0,Cash,,Cancelled
+ZPT2167,Fruits & Vegetables,Bangalore,36.0,2234.95,7.0,14.0,,1.0,Cancelled
+ZPT2168,Meat & Fish,Ahmedabad,26.0,1999.85,2.0,30.0,Cash,1.0,Returned
+ZPT2169,Meat & Fish,Hyderabad,40.0,1480.77,4.0,34.0,UPI,3.0,Cancelled
+ZPT2170,CLEANING,Hyderabad,45.0,578.63,6.0,48.0,UPI,3.0,Returned
+ZPT2171,Beverages,,22.0,455.09,14.0,8.0,Wallet,1.0,Delivered
+ZPT2172,Beverages,,63.0,651.43,11.0,18.0,UPI,3.0,Delivered
+ZPT2173,Beverages,Pune,33.0,1600.3,14.0,17.0,,5.0,
+ZPT2174,Personal Care,Delhi,50.0,1558.81,2.0,18.0,Cash,1.0,Returned
+ZPT2175,Cleaning,,19.0,778.02,5.0,42.0,Wallet,5.0,Returned
+ZPT2176,Bakery,Pune,41.0,334.14,7.0,26.0,UPI,4.0,Cancelled
+ZPT2177,Snacks,Hyderabad,34.0,382.34,12.0,21.0,UPI,1.0,Cancelled
+ZPT2178,Dairy & Eggs,Mumbai,39.0,1272.51,7.0,49.0,Wallet,4.0,Returned
+ZPT2179,Dairy & Eggs,Delhi,29.0,2305.3,8.0,35.0,Wallet,4.0,Pending
+ZPT2180,Meat & Fish,Kolkata,21.0,864.98,13.0,44.0,,2.0,Delivered
+ZPT2181,Dairy & Eggs,Mumbai,48.0,850.37,11.0,26.0,,4.0,
+ZPT2182,Fruits & Vegetables,Chennai,37.0,373.93,13.0,40.0,Wallet,1.0,Delivered
+ZPT2183,Fruits & Vegetables,Hyderabad,51.0,1923.38,6.0,13.0,,1.0,Returned
+ZPT2184,Fruits & Vegetables,,28.0,973.42,2.0,23.0,Cash,5.0,Cancelled
+ZPT2185,Personal Care,,32.0,1336.7,4.0,15.0,Cash,,Delivered
+ZPT2186,Fruits & Vegetables,Chennai,49.0,1818.69,9.0,49.0,UPI,4.0,Cancelled
+ZPT2187,Snacks,Chennai,23.0,304.51,10.0,39.0,UPI,3.0,Delivered
+ZPT2188,Meat & Fish,Chennai,47.0,1731.75,4.0,27.0,Credit Card,5.0,Cancelled
+ZPT2189,Snacks,Hyderabad,28.0,409.87,3.0,29.0,Credit Card,,
+ZPT2190,Meat & Fish,Chennai,34.0,54.8,1.0,29.0,,2.0,
+ZPT2191,Bakery,,41.0,1194.36,10.0,15.0,UPI,3.0,
+ZPT2192,Personal Care,Hyderabad,18.0,226.57,5.0,31.0,Debit Card,5.0,
+ZPT2193,Dairy & Eggs,Bangalore,25.0,590.97,6.0,11.0,,4.0,Returned
+ZPT2194,Beverages,Bangalore,41.0,1882.03,9.0,15.0,Wallet,4.0,Returned
+ZPT2195,Bakery,Ahmedabad,54.0,2043.87,4.0,47.0,Debit Card,5.0,
+ZPT2196,Fruits & Vegetables,Pune,59.0,945.63,1.0,33.0,Cash,4.0,Cancelled
+ZPT2197,Cleaning,Chennai,43.0,2394.74,6.0,19.0,Credit Card,3.0,Delivered
+ZPT2198,Personal Care,Kolkata,32.0,820.07,11.0,33.0,,1.0,
+ZPT2199,Cleaning,Pune,42.0,307.36,6.0,30.0,UPI,4.0,Returned
+ZPT2190,Cleaning,Kolkata,36.0,1429.99,5.0,38.0,,0.0,
+ZPT2201,Fruits & Vegetables,Mumbai,18.0,313.87,6.0,34.0,Wallet,1.0,Pending
+ZPT2202,Fruits & Vegetables,Bangalore,27.0,2070.21,9.0,35.0,Debit Card,4.0,Returned
+ZPT2203,Bakery,,64.0,150.56,14.0,29.0,UPI,3.0,
+ZPT2204,Personal Care,Chennai,19.0,210.76,9.0,49.0,Wallet,1.0,Pending
+ZPT2205,Bakery,,30.0,345.43,14.0,14.0,Debit Card,5.0,Returned
+ZPT2206,Meat & Fish,Hyderabad,42.0,2125.15,3.0,43.0,,1.0,Delivered
+ZPT2207,Meat & Fish,Hyderabad,,97.83,10.0,16.0,,,
+ZPT2208,Beverages,,57.0,931.4,9.0,19.0,Cash,3.0,
+ZPT2209,Personal Care,Chennai,55.0,2341.32,7.0,24.0,UPI,3.0,Pending
+ZPT2210,Meat & Fish,Mumbai,36.0,531.04,12.0,35.0,,3.0,Pending
+ZPT2211,Cleaning,,20.0,675.32,10.0,11.0,Debit Card,4.0,
+ZPT2212,Bakery,Bangalore,48.0,284.22,10.0,23.0,UPI,4.0,Pending
+ZPT2213,Bakery,,34.0,986.88,,46.0,Cash,1.0,
+ZPT2214,Fruits & Vegetables,,47.0,1385.1,3.0,8.0,Wallet,5.0,Delivered
+ZPT2215,Beverages,Pune,52.0,104.31,,47.0,Wallet,,
+ZPT2216,Snacks,Bangalore,36.0,1365.76,11.0,28.0,UPI,3.0,Cancelled
+ZPT2217,Snacks,,23.0,1379.34,7.0,8.0,,1.0,Cancelled
+ZPT2218,Meat & Fish,,19.0,70.28,8.0,14.0,,5.0,
+ZPT2219,Bakery,Chennai,64.0,340.02,13.0,31.0,Credit Card,5.0,Delivered
+ZPT2220,personal care,,55.0,1111.73,3.0,44.0,Debit Card,3.0,
+ZPT2221,Personal Care,Chennai,46.0,1964.87,6.0,30.0,Debit Card,,Returned
+ZPT2222,Snacks,,24.0,362.71,13.0,45.0,Cash,,Returned
+ZPT2223,Fruits & Vegetables,Delhi,23.0,239.33,7.0,8.0,,3.0,Delivered
+ZPT2224,Meat & Fish,Bangalore,22.0,2026.99,1.0,,Credit Card,4.0,
+ZPT2225,Dairy & Eggs,Hyderabad,53.0,1390.78,14.0,11.0,Debit Card,1.0,Pending
+ZPT2226,Personal Care,,51.0,1502.57,10.0,49.0,Cash,3.0,Cancelled
+ZPT2227,Meat & Fish,Hyderabad,43.0,1125.38,13.0,32.0,Wallet,5.0,
+ZPT2228,Bakery,Chennai,22.0,1163.68,5.0,40.0,Cash,4.0,Pending
+ZPT2229,Fruits & Vegetables,Delhi,60.0,2002.25,11.0,12.0,Debit Card,4.0,
+ZPT2230,Beverages,Delhi,31.0,1859.74,12.0,13.0,Debit Card,2.0,
+ZPT2231,Meat & Fish,Ahmedabad,47.0,1929.2,8.0,,,5.0,
+ZPT2232,Personal Care,Kolkata,30.0,1078.8,4.0,33.0,Wallet,2.0,
+ZPT2233,Bakery,Chennai,26.0,2379.57,5.0,29.0,Credit Card,5.0,Returned
+ZPT2234,Bakery,Kolkata,64.0,594.57,2.0,13.0,,1.0,Pending
+ZPT2235,Meat & Fish,Pune,32.0,1373.84,7.0,12.0,Wallet,,Returned
+ZPT2236,Personal Care,Hyderabad,37.0,746.14,7.0,29.0,Wallet,,Delivered
+ZPT2237,Dairy & Eggs,,31.0,2330.55,2.0,46.0,Debit Card,3.0,
+ZPT2238,Bakery,Pune,39.0,1075.1,5.0,20.0,Debit Card,5.0,
+ZPT2239,Beverages,Hyderabad,60.0,1205.85,5.0,,,1.0,Returned
+ZPT2240,Cleaning,Delhi,29.0,2178.12,14.0,38.0,,4.0,
+ZPT2241,Cleaning,Hyderabad,39.0,1021.81,6.0,41.0,Debit Card,,
+ZPT2242,Meat & Fish,Ahmedabad,56.0,1185.45,9.0,17.0,UPI,4.0,Delivered
+ZPT2243,Fruits & Vegetables,Ahmedabad,57.0,2467.57,7.0,34.0,UPI,1.0,Returned
+ZPT2244,Snacks,Kolkata,43.0,1146.71,6.0,24.0,Debit Card,2.0,
+ZPT2245,Bakery,Pune,24.0,2133.88,3.0,22.0,Wallet,5.0,
+ZPT2246,Personal Care,,45.0,960.12,14.0,12.0,,2.0,
+ZPT2247,Snacks,Ahmedabad,51.0,1278.22,4.0,12.0,,2.0,Cancelled
+ZPT2248,Personal Care,,,2021.52,10.0,29.0,Wallet,2.0,
+ZPT2249,Meat & Fish,Bangalore,58.0,2128.27,11.0,29.0,Cash,,Delivered
+ZPT2250,Cleaning,Hyderabad,22.0,581.26,12.0,40.0,UPI,4.0,Cancelled
+ZPT2251,Cleaning,Chennai,52.0,468.37,12.0,31.0,Debit Card,1.0,
+ZPT2252,Fruits & Vegetables,Kolkata,52.0,1486.89,3.0,11.0,Credit Card,2.0,
+ZPT2253,Cleaning,Chennai,56.0,2185.71,1.0,34.0,,1.0,
+ZPT2254,Fruits & Vegetables,Pune,19.0,1944.09,12.0,23.0,UPI,5.0,Delivered
+ZPT2255,Bakery,Ahmedabad,,677.06,7.0,33.0,Cash,5.0,Delivered
+ZPT2256,Dairy & Eggs,Kolkata,24.0,1492.43,8.0,43.0,Cash,1.0,Returned
+ZPT2257,Beverages,Mumbai,18.0,1157.08,13.0,21.0,,1.0,Returned
+ZPT2258,Meat & Fish,,39.0,667.72,7.0,49.0,,2.0,Returned
+ZPT2259,Snacks,Ahmedabad,62.0,2250.06,12.0,26.0,Debit Card,3.0,Delivered
+ZPT2260,meat & fish,Kolkata,19.0,1520.04,8.0,28.0,Credit Card,4.0,Returned
+ZPT2261,Cleaning,Ahmedabad,21.0,1001.27,6.0,18.0,Debit Card,2.0,Returned
+ZPT2262,Snacks,Hyderabad,49.0,1074.68,12.0,27.0,Wallet,1.0,
+ZPT2263,Fruits & Vegetables,Pune,23.0,1591.8,10.0,33.0,,2.0,Returned
+ZPT2264,Meat & Fish,Chennai,27.0,2244.47,12.0,45.0,,3.0,
+ZPT2265,Cleaning,,51.0,680.79,13.0,34.0,,3.0,Pending
+ZPT2266,Cleaning,Chennai,44.0,,11.0,20.0,,2.0,
+ZPT2267,Meat & Fish,Mumbai,41.0,328.45,4.0,35.0,Wallet,4.0,Delivered
+ZPT2268,Cleaning,,38.0,419.81,10.0,45.0,,4.0,Pending
+ZPT2269,Snacks,,58.0,503.45,13.0,15.0,UPI,3.0,
+ZPT2270,Fruits & Vegetables,Hyderabad,63.0,732.35,7.0,26.0,UPI,2.0,Returned
+ZPT2271,Meat & Fish,Hyderabad,60.0,1193.03,8.0,32.0,Cash,5.0,Cancelled
+ZPT2272,Dairy & Eggs,,62.0,1190.72,12.0,12.0,,3.0,Delivered
+ZPT2273,Bakery,Hyderabad,31.0,182.27,3.0,26.0,Wallet,1.0,
+ZPT2274,Fruits & Vegetables,Chennai,44.0,1213.5,1.0,42.0,Credit Card,5.0,Cancelled
+ZPT2275,Snacks,Delhi,,1325.89,4.0,15.0,Debit Card,1.0,
+ZPT2276,Cleaning,Hyderabad,30.0,714.32,8.0,23.0,Wallet,3.0,
+ZPT2277,Fruits & Vegetables,Bangalore,27.0,1940.08,14.0,43.0,Cash,5.0,
+ZPT2278,Fruits & Vegetables,Chennai,64.0,2341.48,6.0,30.0,Credit Card,1.0,Delivered
+ZPT2279,Fruits & Vegetables,Pune,31.0,1049.13,4.0,29.0,Cash,2.0,Returned
+ZPT2280,Cleaning,Ahmedabad,18.0,2481.04,14.0,27.0,Cash,5.0,Returned
+ZPT2281,Cleaning,,45.0,1097.66,14.0,47.0,UPI,5.0,Pending
+ZPT2282,Meat & Fish,Mumbai,35.0,1530.79,12.0,17.0,Credit Card,4.0,Returned
+ZPT2283,Meat & Fish,,30.0,2221.69,9.0,22.0,Debit Card,3.0,Pending
+ZPT2284,Personal Care,Pune,49.0,1817.73,9.0,40.0,Debit Card,5.0,
+ZPT2285,Personal Care,Pune,64.0,2369.31,6.0,10.0,Wallet,4.0,
+ZPT2286,Beverages,,29.0,1764.99,10.0,36.0,Debit Card,3.0,
+ZPT2287,Personal Care,Hyderabad,44.0,1436.51,,45.0,,5.0,Cancelled
+ZPT2288,Cleaning,Kolkata,53.0,803.2,9.0,9.0,UPI,3.0,
+ZPT2289,Dairy & Eggs,Delhi,40.0,2299.36,14.0,30.0,,1.0,Delivered
+ZPT2290,Meat & Fish,,58.0,1174.66,11.0,49.0,Debit Card,1.0,
+ZPT2291,Meat & Fish,,22.0,1676.22,5.0,41.0,Credit Card,1.0,
+ZPT2292,Snacks,Chennai,30.0,873.86,1.0,10.0,Wallet,3.0,Cancelled
+ZPT2293,Snacks,,55.0,531.0,2.0,10.0,Credit Card,3.0,Cancelled
+ZPT2294,Fruits & Vegetables,Delhi,,2301.37,2.0,21.0,Wallet,4.0,Cancelled
+ZPT2295,Personal Care,Kolkata,49.0,1209.86,4.0,,,3.0,Pending
+ZPT2296,Fruits & Vegetables,Ahmedabad,55.0,842.05,10.0,30.0,Wallet,4.0,Cancelled
+ZPT2297,Snacks,Ahmedabad,56.0,2470.59,5.0,22.0,Credit Card,4.0,Pending
+ZPT2298,Beverages,Chennai,36.0,1513.09,2.0,47.0,Credit Card,5.0,
+ZPT2299,Beverages,Ahmedabad,57.0,770.78,13.0,47.0,Debit Card,2.0,
+ZPT2300, Bakery ,Chennai,39.0,2180.72,4.0,-3.0,Cash,5.0,Returned
+ZPT2301,Snacks,Pune,24.0,224.55,12.0,44.0,,5.0,Delivered
+ZPT2302,Dairy & Eggs,Mumbai,39.0,1912.52,6.0,49.0,Cash,1.0,Returned
+ZPT2303,Personal Care,Hyderabad,61.0,280.15,9.0,37.0,Debit Card,2.0,Returned
+ZPT2304,Snacks,Pune,42.0,1459.42,,30.0,,3.0,
+ZPT2305,Snacks,Ahmedabad,63.0,2044.23,3.0,13.0,Debit Card,2.0,
+ZPT2306,Fruits & Vegetables,,57.0,474.03,8.0,16.0,Credit Card,5.0,
+ZPT2307,Bakery,,60.0,1123.0,9.0,49.0,Cash,5.0,Returned
+ZPT2308,Dairy & Eggs,Bangalore,60.0,1858.34,7.0,36.0,UPI,5.0,
+ZPT2309,Meat & Fish,Ahmedabad,30.0,681.72,5.0,17.0,Cash,5.0,
+ZPT2300,Meat & Fish,,51.0,2063.11,10.0,49.0,,,
+ZPT2311,Dairy & Eggs,Mumbai,50.0,161.37,8.0,8.0,,3.0,Cancelled
+ZPT2312,Cleaning,Ahmedabad,49.0,982.9,2.0,26.0,,1.0,Cancelled
+ZPT2313,Snacks,Chennai,40.0,1199.43,4.0,35.0,,5.0,
+ZPT2314,Personal Care,Delhi,53.0,2162.7,5.0,11.0,,2.0,
+ZPT2315,Bakery,Bangalore,21.0,413.36,2.0,15.0,Wallet,1.0,Cancelled
+ZPT2316,Bakery,Ahmedabad,19.0,1567.84,10.0,16.0,Cash,4.0,Delivered
+ZPT2317,Meat & Fish,,34.0,1208.97,11.0,49.0,Cash,,Cancelled
+ZPT2318,Meat & Fish,Delhi,43.0,271.97,8.0,40.0,,5.0,
+ZPT2319,Dairy & Eggs,Bangalore,20.0,880.25,3.0,12.0,,5.0,
+ZPT2320,Meat & Fish,Hyderabad,22.0,1677.28,14.0,14.0,,2.0,
+ZPT2321,Personal Care,,22.0,1247.94,,45.0,Credit Card,1.0,Pending
+ZPT2322,Personal Care,Pune,63.0,717.65,11.0,16.0,Credit Card,5.0,Returned
+ZPT2323,Snacks,Chennai,37.0,1182.38,4.0,25.0,Credit Card,3.0,
+ZPT2324,Meat & Fish,Pune,21.0,2002.06,6.0,39.0,UPI,2.0,
+ZPT2325,Meat & Fish,Hyderabad,30.0,2309.85,3.0,29.0,,2.0,Returned
+ZPT2326,Bakery,Ahmedabad,62.0,2174.64,8.0,8.0,Wallet,5.0,Pending
+ZPT2327,Bakery,,29.0,84.72,6.0,43.0,UPI,1.0,
+ZPT2328,Bakery,Bangalore,57.0,2181.73,4.0,43.0,,1.0,Pending
+ZPT2329,Cleaning,Mumbai,47.0,1755.64,3.0,9.0,Debit Card,3.0,Returned
+ZPT2330,Beverages,,30.0,2408.31,13.0,31.0,,3.0,Cancelled
+ZPT2331,Meat & Fish,Kolkata,56.0,2438.76,8.0,21.0,UPI,5.0,Returned
+ZPT2332,Fruits & Vegetables,Pune,19.0,1558.4,4.0,18.0,Credit Card,,Pending
+ZPT2333,Snacks,,18.0,543.4,6.0,10.0,Wallet,2.0,Cancelled
+ZPT2334,Meat & Fish,Pune,23.0,1636.13,7.0,19.0,,3.0,
+ZPT2335,Beverages,,53.0,1274.98,7.0,42.0,,3.0,
+ZPT2336,Snacks,Pune,22.0,2096.15,11.0,32.0,,2.0,Delivered
+ZPT2337,Bakery,Pune,,953.32,7.0,29.0,,2.0,Pending
+ZPT2338,Fruits & Vegetables,Mumbai,28.0,,7.0,36.0,Cash,1.0,
+ZPT2339,Snacks,Chennai,58.0,1626.31,6.0,11.0,Debit Card,4.0,Cancelled
+ZPT2340,Meat & Fish,Mumbai,24.0,1246.16,6.0,41.0,UPI,3.0,Cancelled
+ZPT2341,Fruits & Vegetables,,38.0,245.2,6.0,13.0,UPI,2.0,Returned
+ZPT2342,Dairy & Eggs,Ahmedabad,45.0,805.36,14.0,43.0,Debit Card,1.0,
+ZPT2343,Snacks,Pune,45.0,2206.77,6.0,33.0,UPI,4.0,Pending
+ZPT2344,Beverages,Chennai,37.0,1708.46,12.0,20.0,Debit Card,1.0,
+ZPT2345,Cleaning,Delhi,56.0,1677.64,4.0,49.0,Cash,,Pending
+ZPT2346,Cleaning,,20.0,2367.25,6.0,29.0,Cash,3.0,Returned
+ZPT2347,Personal Care,Mumbai,57.0,1363.61,12.0,33.0,UPI,3.0,Pending
+ZPT2348,Fruits & Vegetables,Bangalore,46.0,403.12,11.0,41.0,Credit Card,3.0,
+ZPT2349,Dairy & Eggs,,49.0,827.86,5.0,17.0,Wallet,2.0,Cancelled
+ZPT2350,Fruits & Vegetables,Pune,19.0,117.22,1.0,47.0,Debit Card,3.0,
+ZPT2351,Bakery,Chennai,27.0,727.46,10.0,16.0,,3.0,Pending
+ZPT2352,Personal Care,Delhi,33.0,1666.25,14.0,28.0,Wallet,5.0,
+ZPT2353,Fruits & Vegetables,Pune,61.0,2050.45,9.0,41.0,UPI,5.0,Pending
+ZPT2354,Bakery,,49.0,,12.0,32.0,UPI,3.0,Cancelled
+ZPT2355,Dairy & Eggs,Bangalore,54.0,1313.21,6.0,42.0,Cash,2.0,
+ZPT2356,Dairy & Eggs,Ahmedabad,49.0,768.78,12.0,28.0,Debit Card,1.0,Cancelled
+ZPT2357,Dairy & Eggs,Bangalore,41.0,2001.81,10.0,45.0,Wallet,4.0,Returned
+ZPT2358,Fruits & Vegetables,Delhi,29.0,583.49,12.0,17.0,Debit Card,5.0,Delivered
+ZPT2359,Cleaning,Pune,22.0,1713.78,13.0,30.0,UPI,2.0,Cancelled
+ZPT2360,Cleaning,Kolkata,33.0,1956.56,14.0,46.0,UPI,1.0,Pending
+ZPT2361,Cleaning,Delhi,23.0,1941.98,12.0,25.0,UPI,2.0,Cancelled
+ZPT2362,Bakery,Delhi,59.0,1070.69,,36.0,Wallet,4.0,Pending
+ZPT2363,Meat & Fish,Hyderabad,33.0,2235.31,14.0,21.0,UPI,4.0,
+ZPT2364,Snacks,Delhi,60.0,1461.24,8.0,26.0,Debit Card,5.0,
+ZPT2365,Cleaning,Mumbai,62.0,1130.11,1.0,38.0,,2.0,
+ZPT2366,Meat & Fish,Kolkata,44.0,,6.0,12.0,UPI,4.0,
+ZPT2367,Fruits & Vegetables,Ahmedabad,27.0,2299.9,7.0,,Debit Card,5.0,Delivered
+ZPT2368,Dairy & Eggs,Delhi,54.0,2424.27,1.0,24.0,Wallet,4.0,Returned
+ZPT2369,Meat & Fish,,62.0,1715.16,14.0,35.0,Credit Card,3.0,
+ZPT2370,Cleaning,Ahmedabad,64.0,1749.77,14.0,19.0,Wallet,4.0,Pending
+ZPT2371,Bakery,Pune,48.0,237.11,12.0,45.0,Credit Card,4.0,Pending
+ZPT2372,Cleaning,,22.0,2033.1,6.0,41.0,UPI,5.0,Cancelled
+ZPT2373,Fruits & Vegetables,Mumbai,55.0,1040.93,9.0,45.0,,2.0,Returned
+ZPT2374,Dairy & Eggs,,37.0,1450.63,3.0,30.0,Cash,4.0,Returned
+ZPT2375,Personal Care,,63.0,768.05,3.0,39.0,,4.0,
+ZPT2376,Meat & Fish,Pune,40.0,1602.19,13.0,29.0,Credit Card,1.0,Returned
+ZPT2377,Personal Care,Hyderabad,42.0,1383.86,10.0,32.0,Debit Card,3.0,Delivered
+ZPT2378,Meat & Fish,Chennai,45.0,2455.83,8.0,19.0,Credit Card,1.0,Pending
+ZPT2379,Bakery,Bangalore,51.0,289.12,7.0,12.0,,5.0,Pending
+ZPT2380,Bakery,Bangalore,46.0,2052.37,6.0,32.0,Cash,4.0,
+ZPT2381,Meat & Fish,,39.0,602.13,3.0,18.0,,5.0,Returned
+ZPT2382,Cleaning,Delhi,50.0,1012.72,12.0,22.0,Wallet,4.0,Pending
+ZPT2383,Cleaning,Mumbai,47.0,554.26,,34.0,,2.0,Pending
+ZPT2384,Cleaning,Chennai,22.0,1466.74,4.0,37.0,UPI,4.0,Delivered
+ZPT2385,Personal Care,Pune,55.0,1077.82,3.0,40.0,Wallet,3.0,Delivered
+ZPT2386,Dairy & Eggs,Pune,58.0,2115.43,8.0,37.0,,4.0,Cancelled
+ZPT2387,Snacks,Bangalore,60.0,752.43,12.0,39.0,Debit Card,2.0,Pending
+ZPT2388,Beverages,Hyderabad,39.0,2094.15,9.0,38.0,Credit Card,4.0,Returned
+ZPT2389,Meat & Fish,Kolkata,26.0,1237.09,4.0,21.0,UPI,5.0,Cancelled
+ZPT2390,Personal Care,,53.0,1971.32,1.0,40.0,,3.0,Cancelled
+ZPT2391,Cleaning,Kolkata,35.0,1421.81,6.0,29.0,Wallet,3.0,
+ZPT2392,Dairy & Eggs,,,,12.0,40.0,Wallet,5.0,
+ZPT2393,Dairy & Eggs,Pune,64.0,2317.6,13.0,14.0,UPI,2.0,
+ZPT2394,Personal Care,Mumbai,51.0,1927.1,3.0,39.0,,1.0,Pending
+ZPT2395,Fruits & Vegetables,,49.0,2211.32,13.0,28.0,Wallet,,Pending
+ZPT2396,Personal Care,,40.0,1830.47,,14.0,Cash,2.0,Returned
+ZPT2397,Meat & Fish,Pune,18.0,2311.39,7.0,28.0,,2.0,
+ZPT2398,Dairy & Eggs,,63.0,1612.13,9.0,31.0,Wallet,4.0,Pending
+ZPT2399,Dairy & Eggs,Mumbai,31.0,1530.99,8.0,24.0,UPI,,Cancelled
+ZPT2400,Bakery,Kolkata,28.0,1678.23,12.0,24.0,,5.0,Pending
+ZPT2401,Personal Care,Bangalore,60.0,1070.99,1.0,37.0,Cash,,Returned
+ZPT2402,Meat & Fish,,37.0,298.88,8.0,48.0,UPI,2.0,Pending
+ZPT2403,Bakery,Ahmedabad,34.0,1897.64,6.0,20.0,,3.0,Returned
+ZPT2404,Dairy & Eggs,Pune,20.0,798.54,14.0,40.0,Debit Card,5.0,
+ZPT2405,Snacks,,46.0,1900.97,10.0,9.0,,3.0,Delivered
+ZPT2406,Meat & Fish,Kolkata,23.0,1936.29,9.0,25.0,,,Delivered
+ZPT2407,Bakery,,63.0,1340.01,,26.0,,1.0,
+ZPT2408,Personal Care,Bangalore,32.0,69.89,3.0,24.0,Debit Card,4.0,Cancelled
+ZPT2409,Personal Care,Delhi,61.0,2329.29,11.0,44.0,Cash,4.0,
+ZPT2410,Dairy & Eggs,,20.0,1420.43,11.0,32.0,Debit Card,2.0,
+ZPT2411,Fruits & Vegetables,Delhi,33.0,2172.71,1.0,31.0,Wallet,4.0,Delivered
+ZPT2412,Beverages,Hyderabad,60.0,947.77,3.0,38.0,Cash,5.0,Returned
+ZPT2413,Fruits & Vegetables,,63.0,2184.24,1.0,,,5.0,Cancelled
+ZPT2414,Snacks,Bangalore,26.0,2465.71,5.0,11.0,,2.0,Cancelled
+ZPT2415,Personal Care,Kolkata,43.0,1049.62,12.0,39.0,Debit Card,4.0,Delivered
+ZPT2416,Cleaning,Hyderabad,51.0,1301.64,6.0,44.0,Wallet,5.0,Delivered
+ZPT2417,Dairy & Eggs,Chennai,44.0,889.32,6.0,44.0,UPI,3.0,
+ZPT2418,Bakery,Mumbai,42.0,811.62,8.0,28.0,Cash,3.0,
+ZPT2419,Meat & Fish,Mumbai,51.0,2076.81,3.0,44.0,Wallet,2.0,
